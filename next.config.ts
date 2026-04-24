@@ -3,6 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: 'export',
   basePath: '/triangle-landing-page',
+  assetPrefix: '/triangle-landing-page/',
   images: {
     unoptimized: true,
   },
