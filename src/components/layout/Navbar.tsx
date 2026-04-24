@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="max-w-[1280px] h-full mx-auto px-4 md:px-8 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <Image 
-            src="/images/logo.png" 
+            src="/triangle-landing-page/images/logo.png" 
             alt="Triangle Services Logo" 
             width={180} 
             height={40} 

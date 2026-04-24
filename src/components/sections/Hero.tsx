@@ -41,8 +41,8 @@ const Hero = () => {
           {/* Right Image */}
           <div className="relative aspect-[4/5] lg:aspect-auto lg:h-[600px] rounded-sm overflow-hidden group">
             <Image 
-              src="/images/hero-crew.png" 
-              alt="Triangle Services Crew installing cable tray in an industrial hall"
+              src="/triangle-landing-page/images/hero-crew.png" 
+              alt="Triangle Services Electrical Crew installing cable tray in an industrial hall"
               fill
               className="object-cover transition-transform duration-700 group-hover:scale-105"
               priority

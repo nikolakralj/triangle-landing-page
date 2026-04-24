@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Column 1 - Company */}
           <div>
             <Image 
-              src="/images/logo.png" 
+              src="/triangle-landing-page/images/logo.png" 
               alt="Triangle Services Logo" 
               width={160} 
               height={36} 
